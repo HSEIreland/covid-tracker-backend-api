@@ -45,3 +45,4 @@ There are a number of handy commands you can run to help with development.
 |`npm run db:delete`| Delete the database server. You will need to run `db:up` and `db:migrate` again. |
 |`npm run lint`| Run eslint |
 |`npm run lint:fix`| Run eslint in fix mode |
+MINECRAFT
